@@ -1,6 +1,1 @@
 flask
-urlib
-PIL
-os
-virtualenv
-gevent
